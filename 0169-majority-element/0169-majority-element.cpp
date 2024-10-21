@@ -17,5 +17,17 @@ public:
             }
         }
         return candidate;
+
+        // If it is not given that there definitely exists a number > n/2 times frequency, in that case return -1
+        // int count = 0;
+        // for (int value:nums) {
+        //     if (value == candidate) {
+        //         count++;
+        //     }
+        // }
+        // if (count > n/2) {
+        //     return candidate;
+        // }
+        // else return -1;
     }
 };
