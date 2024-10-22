@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [2486-most-frequent-even-element](https://github.com/roshankumarsinha/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
+| [2486-most-frequent-even-element](https://github.com/roshankumarsinha/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
+| [2486-most-frequent-even-element](https://github.com/roshankumarsinha/Leetcode/tree/master/2486-most-frequent-even-element) |
 <!---LeetCode Topics End-->
