@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumarsinha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/roshankumarsinha/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumarsinha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Queue
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/roshankumarsinha/Leetcode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
