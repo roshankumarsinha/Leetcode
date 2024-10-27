@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/roshankumarsinha/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/roshankumarsinha/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0792-binary-search](https://github.com/roshankumarsinha/Leetcode/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [2486-most-frequent-even-element](https://github.com/roshankumarsinha/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/roshankumarsinha/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/roshankumarsinha/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
