@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/roshankumarsinha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
+| [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshankumarsinha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/roshankumarsinha/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/roshankumarsinha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/roshankumarsinha/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/roshankumarsinha/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/roshankumarsinha/Leetcode/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
 ## Tree
 |  |
 | ------- |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/roshankumarsinha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/roshankumarsinha/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
