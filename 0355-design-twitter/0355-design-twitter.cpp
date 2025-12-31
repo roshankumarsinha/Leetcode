@@ -1,9 +1,8 @@
 class Twitter {
 
 private:
-    map<int, map<int, int>>
-        followers; // followerId -> (followeeId -> 0/1), 0 means unfollowed, 1
-                   // means followed
+    map<int, map<int, int>> followers; // followerId -> (followeeId -> 0/1), 0
+                                       // means unfollowed, 1 means followed
     vector<pair<int, int>>
         tweets; // (tweetId, userId), maintains the order of tweets, most recent
                 // at the end of the vector
@@ -29,9 +28,7 @@ public:
             // Check if the tweet is by the user themselves or by a followed
             // user
             if (tweetUserId == userId ||
-                (followers[userId].find(tweetUserId) !=
-                     followers[userId].end() &&
-                 followers[userId][tweetUserId] == 1)) {
+                (followers[userId][tweetUserId] == 1)) {
                 newsFeed.push_back(tweets[i].first); // Add tweetId to newsFeed
             }
         }
