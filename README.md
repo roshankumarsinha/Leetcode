@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumarsinha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/roshankumarsinha/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/roshankumarsinha/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/roshankumarsinha/Leetcode/tree/master/0283-move-zeroes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/roshankumarsinha/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/roshankumarsinha/Leetcode/tree/master/0792-binary-search) |
