@@ -12,27 +12,34 @@
  */
 class Solution {
 public:
-    int height(TreeNode* node) {
-        if (node == nullptr) {
+    // Helper function returns height if subtree is balanced, else -1
+    int checkHeight(TreeNode* node) {
+        if (node == nullptr)
             return 0;
-        }
-        int leftHeight = height(node->left);
-        int rightHeight = height(node->right);
-        if (leftHeight == -1) {
+
+        // Check height of left subtree
+        int leftHeight = checkHeight(node->left);
+        if (leftHeight == -1)
+            return -1; // Left subtree is not balanced, so we have to pass -1 up
+                       // the call stack
+
+        // Check height of right subtree
+        int rightHeight = checkHeight(node->right);
+        if (rightHeight == -1)
+            return -1; // Right subtree is not balanced, so we have to pass -1
+                       // up the call stack
+
+        // If height difference is more than 1, tree is unbalanced
+        if (abs(leftHeight - rightHeight) > 1)
             return -1;
-        }
-        if (rightHeight == -1) {
-            return -1;
-        }
-        int diff = abs(leftHeight - rightHeight);
-        if (diff > 1) {
-            return - 1;
-        }
+
+        // Return height if balanced
         return 1 + max(leftHeight, rightHeight);
     }
 
+    // Main function to check if the tree is balanced
     bool isBalanced(TreeNode* root) {
-        if (height(root) == -1) {
+        if (checkHeight(root) == -1) {
             return false;
         } else {
             return true;
