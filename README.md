@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/roshankumarsinha/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumarsinha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Queue
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/roshankumarsinha/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/roshankumarsinha/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
