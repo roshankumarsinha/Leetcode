@@ -65,7 +65,7 @@ public:
             for (auto itr : it.second) { // Iterate through the map of depth and
                                          // vector of nodes
                 sort(itr.second.begin(), itr.second.end());
-                for(int val : itr.second) {
+                for (int val : itr.second) {
                     column.push_back(val);
                 }
             }
