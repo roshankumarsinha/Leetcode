@@ -173,18 +173,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/roshankumarsinha/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/roshankumarsinha/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## String
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
