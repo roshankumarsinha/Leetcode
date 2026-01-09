@@ -12,28 +12,15 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
+        // Base Case : 
         if (root == nullptr) {
             return nullptr;
         }
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()) {
-            TreeNode* curr = q.front();
-            q.pop();
-            TreeNode* temp = nullptr;
-            TreeNode* temp1 = nullptr;
-            if (curr->left) {
-                temp = curr->left;
-                q.push(temp);
-            }
-            if (curr->right) {
-                temp1 = curr->right;
-                q.push(temp1);
-            }
-            curr->left = temp1;
-            curr->right = temp;
-            
-        }
+        TreeNode* temp = root->left;
+        root->left = root->right;
+        root->right = temp;
+        invertTree(root->left);
+        invertTree(root->right);
         return root;
     }
 };
