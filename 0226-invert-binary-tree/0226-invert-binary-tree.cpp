@@ -16,7 +16,8 @@ public:
         if (root == nullptr) {
             return nullptr;
         }
-        TreeNode* temp = root->left;
+        // Swap the left and right using temp variable
+        TreeNode* temp = root->left;    
         root->left = root->right;
         root->right = temp;
         invertTree(root->left);
