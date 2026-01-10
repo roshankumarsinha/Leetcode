@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/roshankumarsinha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/roshankumarsinha/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshankumarsinha/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/roshankumarsinha/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumarsinha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/roshankumarsinha/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/roshankumarsinha/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/roshankumarsinha/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/roshankumarsinha/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
