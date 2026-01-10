@@ -5,9 +5,10 @@ public:
             return;
         }
         swap(s[i], s[n - i - 1]);
-        reverse(i + 1, s, s.size());
+        reverse(i + 1, s, n);
     }
     void reverseString(vector<char>& s) {
-        reverse(0, s, s.size());
+        int n = s.size();
+        reverse(0, s, n);
     }
 };
