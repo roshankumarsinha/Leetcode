@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshankumarsinha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/roshankumarsinha/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshankumarsinha/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -229,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/roshankumarsinha/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
