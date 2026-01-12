@@ -1,10 +1,10 @@
 class Solution {
 public:
-    typedef pair<int, pair<int, int>> Node;
+    // typedef pair<int, pair<int, int>> Node;
     vector<int> smallestRange(vector<vector<int>>& nums) {
         // Calculate the number of arrays
         int k = nums.size(); // k is the number of arrays
-        priority_queue<Node, vector<Node>, greater<Node>>
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>>
             minHeap;              // Min-heap to store the elements
         int currentMax = INT_MIN; // Initialize current maximum
 
@@ -21,7 +21,7 @@ public:
 
         // While the min-heap is not empty
         while (!minHeap.empty()) {
-            Node currentNode = minHeap.top(); // Get the smallest element
+            pair<int, pair<int, int>> currentNode = minHeap.top(); // Get the smallest element
             minHeap.pop();                    // Remove it from the heap
 
             int currentMin =
