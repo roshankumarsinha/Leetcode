@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/roshankumarsinha/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/roshankumarsinha/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/roshankumarsinha/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshankumarsinha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshankumarsinha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/roshankumarsinha/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshankumarsinha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/roshankumarsinha/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshankumarsinha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Breadth-First Search
 |  |
 | ------- |
