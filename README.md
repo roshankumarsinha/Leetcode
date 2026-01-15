@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/roshankumarsinha/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/roshankumarsinha/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankumarsinha/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/roshankumarsinha/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/roshankumarsinha/Leetcode/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/roshankumarsinha/Leetcode/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
