@@ -10,66 +10,127 @@
  */
 class Solution {
 public:
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        if (k == 1 || !head)
-            return head; // No need to reverse if k == 1 or list is empty.
+    ListNode* reverseLinkedList(ListNode* head) {
+        // Initialize'temp' at
+        // head of linked list
+        ListNode* temp = head;
 
-        // Count the length of the list
-        ListNode* curr = head;
-        int length = 0;
-        while (curr) {
-            length++;
-            curr = curr->next;
+        // Initialize pointer 'prev' to NULL,
+        // representing the previous node
+        ListNode* prev = NULL;
+
+        // Traverse the list, continue till
+        // 'temp' reaches the end (NULL)
+        while (temp != NULL) {
+            // Store the next node in
+            // 'front' to preserve the reference
+            ListNode* front = temp->next;
+
+            // Reverse the direction of the
+            // current node's 'next' pointer
+            // to point to 'prev'
+            temp->next = prev;
+
+            // Move 'prev' to the current
+            // node for the next iteration
+            prev = temp;
+
+            // Move 'temp' to the 'front' node
+            // advancing the traversal
+            temp = front;
         }
 
-        // Calculate the number of full groups of `k` that we can reverse
-        int groups = length / k;
-        if (groups == 0)
-            return head; // If no full k-group, return the list as it is
+        // Return the new head of
+        // the reversed linked list
+        return prev;
+    }
+    ListNode* getKthNode(ListNode* temp, int k) {
+        // Decrement K as we already
+        // start from the 1st node
+        k -= 1;
 
-        // Initial pointers
-        ListNode* newHead =
-            nullptr; // This will be the new head of the list after reversal
-        ListNode* groupPrev = nullptr; // Pointer to connect the end of one
-                                       // reversed group to the next
-        curr = head;
+        // Decrement K until it reaches
+        // the desired position
+        while (temp != NULL && k > 0) {
+            // Decrement k as temp progresses
+            k--;
 
-        while (groups > 0) {
-            // Reverse k nodes
-            ListNode* groupEnd = curr; // The current group's original head
-                                       // becomes its tail after reversal
-            ListNode* prev = nullptr;
-            int count = 0;
+            // Move to the next node
+            temp = temp->next;
+        }
 
-            // Reverse the nodes in the current group
-            while (count < k) {
-                ListNode* nextNode =
-                    curr->next;    // Temporarily store the next node
-                curr->next = prev; // Reverse the link
-                prev = curr;       // Move prev to current
-                curr = nextNode;   // Move to next node
-                count++;
+        // Return the Kth node
+        return temp;
+    }
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        ListNode* temp = head;
+
+        // Initialize a pointer to track the last node of previous group, this
+        // will be used to link the current group to the previous one after
+        // reversal Initially, there is no previous group, so set it to NULL
+        ListNode* prevLast = NULL;
+
+        // Traverse through the linked list
+        while (temp != NULL) {
+            // Get the Kth node of the current group
+            // This function returns the Kth node from the current position
+            // If Kth node is NULL, it means the group is not complete
+            // and we should not reverse it, it will return NULL
+            // If Kth node is not NULL, we will reverse the nodes from temp to
+            // Kth node and link it to the previous group
+            ListNode* kThNode = getKthNode(temp, k);
+
+            // If the Kth node is NULL
+            // (not a complete group)
+            if (kThNode == NULL) {
+                // If there was a previous group,
+                // link the last node to the current node
+                if (prevLast) {
+                    prevLast->next =
+                        temp; // Link Previous group to the current group
+                }
+
+                // Exit the loop
+                break;
             }
 
-            // Now, `prev` is the new head of this reversed group
-            if (!newHead)
-                newHead = prev; // Set the new head of the list if it is the
-                                // first group
+            // Store the next node
+            // after the Kth node
+            ListNode* nextNode =
+                kThNode->next; // Store the next node so that we can continue
+                               // traversing the list after reversing the
+                               // current group
 
-            // Connect the previous group with the current reversed group
-            if (groupPrev)
-                groupPrev->next = prev;
+            // Disconnect the Kth node
+            // to prepare for reversal
+            kThNode->next = NULL;
 
-            // Prepare for the next group
-            groupPrev = groupEnd; // `groupEnd` now becomes the last node of
-                                  // this reversed group
-            groups--;
+            // Reverse the nodes from
+            // temp to the Kth node
+            // The reversed linked list segment returns a modified list with
+            // `temp` now at its tail  and the `KthNode` pointing to its head.
+            ListNode* newHead = reverseLinkedList(temp);
+
+            // Adjust the head if the reversal
+            // starts from the head
+            if (temp == head) {
+                head = kThNode;
+            } else {
+                // Link the last node of the previous
+                // group to the reversed group
+                prevLast->next = kThNode;
+            }
+
+            // Update the pointer to the
+            // last node of the previous group
+            prevLast = temp;
+
+            // Move to the next group
+            temp = nextNode;
         }
 
-        // After reversing all possible k-groups, attach the remaining nodes
-        if (groupPrev)
-            groupPrev->next = curr;
-
-        return newHead;
+        // Return the head of the
+        // modified linked list
+        return head;
     }
 };
