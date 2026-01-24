@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/roshankumarsinha/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumarsinha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/roshankumarsinha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/roshankumarsinha/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshankumarsinha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/roshankumarsinha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/roshankumarsinha/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/roshankumarsinha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/roshankumarsinha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
