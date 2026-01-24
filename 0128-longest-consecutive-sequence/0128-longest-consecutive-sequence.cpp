@@ -6,16 +6,17 @@ public:
 
         // Step 1: Insert all elements into HashMap (value can be used to mark
         // visited)
-        unordered_set<int> numMap(nums.begin(), nums.end());
-        // unordered_map<int, bool> numMap;
-        // for (int num : nums) {
-        //     numMap[num] = true;
-        // }
+        // unordered_set<int> numMap(nums.begin(), nums.end());
+        unordered_map<int, bool> numMap;
+        for (int num : nums) {
+            numMap[num] = true;
+        }
 
         int maxLen = 0;
 
         // Step 2: Find sequence starters and count
-        for (int num : numMap) {
+        for (auto pair : numMap) {
+            int num = pair.first;
             // Check if this is the start of a sequence
             if (numMap.find(num - 1) == numMap.end()) {
                 // num - 1 doesn't exist, so num is a sequence start
