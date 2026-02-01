@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshankumarsinha/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshankumarsinha/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/roshankumarsinha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
