@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/roshankumarsinha/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankumarsinha/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2270-number-of-ways-to-split-array](https://github.com/roshankumarsinha/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/roshankumarsinha/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/roshankumarsinha/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankumarsinha/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2270-number-of-ways-to-split-array](https://github.com/roshankumarsinha/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 ## Binary Search
 |  |
 | ------- |
