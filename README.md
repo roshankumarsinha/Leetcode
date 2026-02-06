@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/roshankumarsinha/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/roshankumarsinha/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/roshankumarsinha/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/roshankumarsinha/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/roshankumarsinha/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2486-most-frequent-even-element](https://github.com/roshankumarsinha/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/roshankumarsinha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/roshankumarsinha/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Two Pointers
 |  |
 | ------- |
