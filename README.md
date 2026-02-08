@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/roshankumarsinha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/roshankumarsinha/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/roshankumarsinha/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshankumarsinha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0525-contiguous-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshankumarsinha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/roshankumarsinha/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/roshankumarsinha/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshankumarsinha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/roshankumarsinha/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
