@@ -13,7 +13,7 @@ public:
         // Fixed upper bound: maxVal + n covers worst case (all elements same
         // value)
         for (int i = 0; i < maxVal + (int)nums.size(); i++) {
-            if (freqMap.count(i) && freqMap[i] > 1) {
+            if (freqMap[i] > 1) {
                 int duplicates =
                     freqMap[i] - 1;       // Number of duplicates at value i
                 operations += duplicates; // Each duplicate needs 1 operation to
