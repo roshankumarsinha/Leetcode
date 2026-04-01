@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshankumarsinha/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/roshankumarsinha/Leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/roshankumarsinha/Leetcode/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/roshankumarsinha/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Queue
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/roshankumarsinha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/roshankumarsinha/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/roshankumarsinha/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/roshankumarsinha/Leetcode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/roshankumarsinha/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/roshankumarsinha/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/roshankumarsinha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/roshankumarsinha/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/roshankumarsinha/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/roshankumarsinha/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshankumarsinha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/roshankumarsinha/Leetcode/tree/master/0796-rotate-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/roshankumarsinha/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
