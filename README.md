@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankumarsinha/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2270-number-of-ways-to-split-array](https://github.com/roshankumarsinha/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/roshankumarsinha/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2611-mice-and-cheese](https://github.com/roshankumarsinha/Leetcode/tree/master/2611-mice-and-cheese) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/roshankumarsinha/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshankumarsinha/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2611-mice-and-cheese](https://github.com/roshankumarsinha/Leetcode/tree/master/2611-mice-and-cheese) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumarsinha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/roshankumarsinha/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2611-mice-and-cheese](https://github.com/roshankumarsinha/Leetcode/tree/master/2611-mice-and-cheese) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/roshankumarsinha/Leetcode/tree/master/0355-design-twitter) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/roshankumarsinha/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2611-mice-and-cheese](https://github.com/roshankumarsinha/Leetcode/tree/master/2611-mice-and-cheese) |
 ## Breadth-First Search
 |  |
 | ------- |
