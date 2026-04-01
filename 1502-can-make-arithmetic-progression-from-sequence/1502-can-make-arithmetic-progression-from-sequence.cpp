@@ -1,17 +1,30 @@
 class Solution {
 public:
     bool canMakeArithmeticProgression(vector<int>& arr) {
-        // Step 1: sort
-        sort(arr.begin(), arr.end());
+        int n = arr.size();
 
-        // Step 2: find common difference
-        int diff = arr[1] - arr[0];
+        // Step 1: find min and max
+        int minVal = *min_element(arr.begin(), arr.end());
+        int maxVal = *max_element(arr.begin(), arr.end());
 
-        // Step 3: check all consecutive differences
-        for (int i = 2; i < arr.size(); i++) {
-            if (arr[i] - arr[i - 1] != diff) {
+        // Step 2: check if valid diff exists
+        if ((maxVal - minVal) % (n - 1) != 0)
+            return false;
+
+        int d = (maxVal - minVal) / (n - 1);
+
+        // Step 3: handle special case (all elements same)
+        if (d == 0)
+            return true;
+
+        // Step 4: insert into set
+        unordered_set<int> s(arr.begin(), arr.end());
+
+        // Step 5: check all expected values
+        for (int i = 0; i < n; i++) {
+            int expected = minVal + i * d;
+            if (s.find(expected) == s.end())
                 return false;
-            }
         }
 
         return true;
